@@ -10,6 +10,7 @@ export default function Home() {
         height="100px"
         alt="the fresh logo: a sliced lemon dripping with juice"
       />
+      <a href="/Andew">Andrew page</a>
       <p>
         Welcome to `fresh`. Try updating this message in the ./routes/index.tsx
         file, and refresh.
